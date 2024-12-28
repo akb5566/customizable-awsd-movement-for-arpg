@@ -19,3 +19,7 @@ Create a customizable AWSD movement system for any(?) ARPG games using AutoHotke
 7. Probably some parameters will still need to be adjusted. Edit the file again and reload it. Again, read the comments in the file. Trial and error is the way to go.
 
 8. If you are happy with the settings, save the file to a cloud service like Google Drive or Dropbox. So you don't need to do all the above again.
+
+# Video tutorial
+
+[AWSD movement for Grim Dawn/Last Epoch](https://youtu.be/36Atvdng_jU)
